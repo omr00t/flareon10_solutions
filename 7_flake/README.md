@@ -12,6 +12,8 @@ Nox Shadows Department Head
 
 7-zip password: flare
 
+Challenge file: [flake](../challenge_files/7_flake.7z)
+
 # Solution
 
 To solve this challenge, I had to cheat a bit. I apologize to the challenge author in advance :)
