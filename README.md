@@ -1,0 +1,15 @@
+# Flare-On 10 Solutions
+
+1. [X](/1_X/README.md)
+2. [ItsOnFire](/2_ItsOnFire/README.md)
+3. [mypassion](/3_mypassion/README.md)
+4. [aimbot](/4_aimbot/README.md)
+5. [where_am_i](/5_where_am_i/README.md)
+6. [FlareSay](/6_FlareSay/README.md)
+7. [flake](/7_flake/README.md)
+8. [AmongRust](/8_AmongRust/README.md)
+9. [mbransom](/9_mbransom/README.md)
+10. [kupo](/10_kupo/README.md)
+11. [over_the_rainbow](/11_over_the_rainbow/README.md)
+12. [HVM](/12_HVM/README.md)
+13. [y0da](/13_y0da/README.md)
