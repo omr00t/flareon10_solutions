@@ -8,6 +8,8 @@ This package contains many files and, I can’t believe i’m saying this, click
 
 7-zip password: flare
 
+Challenge file: [X](../challenge_files/1_X.7z)
+
 # Solution
 
 The competition starts with an easy challenge. You download and decompress the challenge file, and you get the following list of files:

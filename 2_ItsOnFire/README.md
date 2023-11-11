@@ -4,6 +4,8 @@ The FLARE team is now enthusiastic about Google products and services but we sus
 
 7-zip password: flare
 
+Challenge file: [ItsOnFire](../challenge_files/2_ItsOnFire.7z)
+
 # Solution
 
 This challenge will require a bit of work. You download and decompress the challenge file, and you get the following APK file:

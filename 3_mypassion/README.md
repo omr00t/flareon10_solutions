@@ -4,6 +4,8 @@ This is one of those ones that will work under the right circumstances, Steve. M
 
 7-zip password: flare
 
+Challenge file: [mypassion](../challenge_files/3_mypassion.7z)
+
 # Solution
 
 This is one of the harder challenges this year. It requires some work in deciphering shellcodes.
